@@ -1,0 +1,6 @@
+{
+  "name": "Haute Editorial Beauty",
+  "description": "A sanctuary of bespoke luxury, bespoke hair artistry, and holistic aesthetic wellness crafted with editorial minimalism and warm tactile elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
